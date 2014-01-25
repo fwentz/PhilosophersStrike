@@ -136,8 +136,8 @@ public class ControlPlayer : MonoBehaviour {
 	}
 
 	void OnTriggerEnter2D(Collider2D other){
-		Debug.Log("object entered");
-		Debug.Log(other.tag);
+		//Debug.Log("object entered");
+		//Debug.Log(other.tag);
 		//TODO: Enter code for life handling here
 	}
 
